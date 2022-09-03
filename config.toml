@@ -1,4 +1,5 @@
 baseURL = "/"
+baseURL = "https://davidhadas.github.io/knativewebsite"
 title = "Goldydocs"
 
 # Language settings
